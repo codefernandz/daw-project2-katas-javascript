@@ -1,1 +1,1 @@
-# DAW Project 2 - Katas JavaScript
+# daw-project2-katas-javascript
